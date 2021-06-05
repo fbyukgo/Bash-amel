@@ -1,2 +1,2 @@
 # Bash-amel
-A saucy repo for bash oneliners
+A saucy repo for bash one-liners
